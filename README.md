@@ -1,2 +1,3 @@
-# project-monster
-Monster engine
+# monster
+
+a [Sails](http://sailsjs.org) application
